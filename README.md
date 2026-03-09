@@ -28,6 +28,12 @@ Target Variable:
 5. Model evaluation
 6. Deployment preparation
 
+## Project Architecture
+
+User Input → Data Preprocessing → Trained ML Model → Failure Prediction
+
+The system takes machine sensor data as input, processes it using the trained pipeline, and predicts whether a machine failure is likely to occur.
+
 ## Models Used
 - Random Forest
 - Support Vector Machine (SVM)
