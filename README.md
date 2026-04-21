@@ -58,5 +58,10 @@ The trained model was saved using joblib and deployed using a Streamlit applicat
 - Machine Learning
 - Streamlit
 
+## Project Highlights
+- Predicts machine failure using ML models
+- Handles real-world industrial problem
+- End-to-end ML pipeline implemented
+
 ## Author
 Jitendra Khandelwal
