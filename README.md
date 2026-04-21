@@ -49,6 +49,8 @@ Random Forest was selected as the final model.
 
 ## Deployment
 The trained model was saved using joblib and deployed using a Streamlit application.
+## Live Demo
+**https://huggingface.co/spaces/Jitendra27/Predictive-maintenance**
 
 ## Technologies Used
 - Python
